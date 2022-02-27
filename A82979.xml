@@ -1,0 +1,154 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An ordinance and declaration of the Lords and Commons assembled in Parliament allowing and authorising any of his Majesties good and loyall subjects in the kingdom of England, to furnish with all manner of warlike provision, and send to sea what ships and pinaces they shall thinke fit, to make stay of all such supplies, as they shall seize upon by sea or land, going to assist the rebels in Ireland. And to take away all ships, goods, and other provision belonging to them, or any that have assisted them. And the said adventurers (in recompence of so good a service) shall have and enjoy as their owne proper goods, all ships, goods, moneys, plate, armes, munition, victuals, pillage, and spoyle, which shall be so seized or taken by them, without any account theteof [sic] to be made whatsoever. Octob. 20. 1642. Ordered by the Lords and Commons in Parliament, that this ordinance shall be forthwith printed and published. J. Brown, Cler. Parliamentorum.</title>
+            <title>Proceedings. 1642-10-20</title>
+            <author>England and Wales. Parliament.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A82979</idno>
+            <idno type="STC">Wing E1765aA</idno>
+            <idno type="STC">ESTC R232117</idno>
+            <idno type="EEBO-CITATION">99897823</idno>
+            <idno type="PROQUEST">99897823</idno>
+            <idno type="VID">137366</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A82979)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 137366)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2532:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An ordinance and declaration of the Lords and Commons assembled in Parliament allowing and authorising any of his Majesties good and loyall subjects in the kingdom of England, to furnish with all manner of warlike provision, and send to sea what ships and pinaces they shall thinke fit, to make stay of all such supplies, as they shall seize upon by sea or land, going to assist the rebels in Ireland. And to take away all ships, goods, and other provision belonging to them, or any that have assisted them. And the said adventurers (in recompence of so good a service) shall have and enjoy as their owne proper goods, all ships, goods, moneys, plate, armes, munition, victuals, pillage, and spoyle, which shall be so seized or taken by them, without any account theteof [sic] to be made whatsoever. Octob. 20. 1642. Ordered by the Lords and Commons in Parliament, that this ordinance shall be forthwith printed and published. J. Brown, Cler. Parliamentorum.</title>
+                  <title>Proceedings. 1642-10-20</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for I. Wright,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Octob.21. 1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Newberry Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Privateering --  Early works to 1800.</term>
+               <term>Ireland --  History --  1625-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-11</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2013-11</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:137366:1" rendition="simple:additions"/>
+            <p>AN ORDINANCE AND DECLARATION OF THE Lords and Commons Aſſembled in Parliament, Allowing and authoriſing any of His Majeſties good and loyall Subjects in the Kingdom of <hi>England,</hi> to furniſh with all manner of warlike proviſion, and ſend to Sea what Ships and Pinaces they ſhall thinke fit, to make ſtay of all ſuch ſupplies, as they ſhall ſeize upon by Sea or Land, going to aſſiſt the Rebels in <hi>Ireland.</hi> And to take away all Ships, Goods, and other proviſion belonging to them, or any that have aſſiſted them.</p>
+            <p>And the ſaid Adventurers (in recompence of ſo good a ſervice) ſhall have and enjoy as their owne proper goods, all Ships, Goods, Moneys, Plate, Armes, Mu<g ref="char:EOLhyphen"/>nition, Victuals, Pillage, and ſpoyle, which ſhall be ſo ſeized or taken by them, without any account thereof to be made whatſoever.</p>
+            <floatingText type="license" xml:lang="eng">
+               <body>
+                  <opener>
+                     <dateline>
+                        <date>Octob. 20. 1642.</date>
+                     </dateline>
+                  </opener>
+                  <p>
+                     <hi>ORdered by the Lords and Commons in Parliament, That this Ordinance ſhall be forthwith printed and publiſhed.</hi>
+                  </p>
+                  <closer>
+                     <signed>J. Brown, Cler. Parliamentorum.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>
+               <hi>London,</hi> Printed for <hi>I. Wright.</hi> Octob. 21. 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="declaration">
+            <pb facs="tcp:137366:2"/>
+            <pb facs="tcp:137366:2" rendition="simple:additions"/>
+            <head>AN ORDINANCE AND DECLARATION OF THE Lords and Commons Aſſembled in Parliament.</head>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas the Lords and Commons in Par<g ref="char:EOLhyphen"/>liament now aſſembled have received information that divers ſhips and other Veſſels, warlikely appointed, equipped, and furniſhed, belonging to the Rebels in <hi>Ireland,</hi> have been of late ſet out from the Port of <hi>Wexford,</hi> and other Ports and places in that Kingdome, and have com<g ref="char:EOLhyphen"/>mitted and done many depredations, ſpoyles, and piraticall acts upon the ſhips and goods of his Majeſties good ſub<g ref="char:EOLhyphen"/>jects, friends and allies, and doe thereby very much diſturb, infeſt, and annoy the publique commerce, intercourſe, and trade between this and other Nations; And whereas the Lords and Commons aforeſaid have further been infor<g ref="char:EOLhyphen"/>med,
+<pb facs="tcp:137366:3"/>That not onely many ſupplies of Victuals and Armes have been, and daily are carried to the ſaid Rebels, by French, Dunkerkers, and others, but alſo many ſhips and goods belonging to his Majeſties loyall Subjects, have been taken and ſpoyled by them under colour of Commiſſions from the ſaid Rebels, contrary to the Law of Nations, and practice of Princes in amity in the like caſes; And whereas divers of his Majeſties wel-affected Subjects, out of their pious and charitable diſpoſition towards their diſtreſſed brethren, his Majeſties Proteſtant ſubjects in the Realm of <hi>Ireland,</hi> as alſo out of their loyall reſpect to his Majeſty, and deteſtation to that rebellion, and to reduce the rebels in the ſaid Realm of <hi>Ireland</hi> to their due obedience, and as much as in them lieth to prevent and hinder all ſuch ſup<g ref="char:EOLhyphen"/>plies as ſhall be ſent unto thoſe rebels, have lately made known to the ſaid Lords and Commons their voluntary diſpoſition and readineſſe to ſet forth ſome Ships and Pina<g ref="char:EOLhyphen"/>ces, warlikely appointed, equipped, manned and victualled, ſo that in recompence of their charge and adventure there<g ref="char:EOLhyphen"/>in, they may have, and enjoy to their owne uſes, all ſuch Ships, Goods, Moneys, and Merchandizes, which they ſhall take and ſurpriſe by Sea or by Land, belonging to any the ſaid Rebels, or to any other that have carried, or they ſhall take carrying any ſupplies to the Rebels, Which being wel approved by the Lords and Commons in Parliament, as a good means to weaken the ſaid Rebels, and ſo to reduce them to their due obedience, do commend the ſame for a pious and laudable undertaking, and are willing to give it all the encouragement and advancement that may be, to bring it to a good and ſucceſſefull iſſue, as tending very much to the honour of the King, and the ſpeedy and effe<g ref="char:EOLhyphen"/>ctuall ſuppreſſing of the rebellion aforeſaid; And therefore for the better enabling the performance of this ſo free and commendable undertaking and enterprize, It is ordered,
+<pb facs="tcp:137366:3"/>eſtabliſhed, and ordained by the Lords and Commons aſ<g ref="char:EOLhyphen"/>ſembled in this preſent Parliament, and by the authority of the ſame, That it ſhall and may be lawfull for any of his Majeſties good and loyall Subjects of this Kingdome of <hi>England,</hi> to be approved, and thereunto appointed by the Commiſſioners of the Admiralty eſtabliſhed by the Parlia<g ref="char:EOLhyphen"/>ment, in warlike manner to equippe and furniſh for the ſaid intended imployment, ſuch and ſo many Ships and o<g ref="char:EOLhyphen"/>ther Veſſels as they ſhall thinke fitting, and to place in them, competent numbers of Souldiers, Marriners and Gunnersd with neceſſary Armes, and proviſions for that ſervice; an to appoint over them ſuch Commanders, Captaines, and Officers as they ſhall thinke fit; And the ſame Ships and o<g ref="char:EOLhyphen"/>ther Veſſels ſo manned, equipped, armed, and provided to ſet forth to the ſea, and with the ſame to ſeize, ſurprize, and take all, and all manner of Ships, Veſſels, Goods, and Mer<g ref="char:EOLhyphen"/>chandize belonging to the ſaid rebels, or any of them, or unto any perſon or perſons that they ſhall finde or under<g ref="char:EOLhyphen"/>ſtand to have aided the ſaid rebels, or any of them, with Armes, Amunition or Victuals by Sea or by Land; And alſo to ſeize and ſurpriſe all manner of Ships and other Veſſels, having on board them Armes, Amunition, or Victuals, bound there with to the Kingdom of <hi>Ireland,</hi> or any the Do<g ref="char:EOLhyphen"/>minions of the ſame, not having on board them a paſport or licence from the Co<g ref="char:cmbAbbrStroke">̄</g>miſſioners of the Admiralty appointed by the Parliament, as aforeſaid, or from the chiefe Gover<g ref="char:EOLhyphen"/>nour or Governours of <hi>Ireland,</hi> for the time being, appointed by his Majeſty, with the conſent of both Houſes of Par<g ref="char:EOLhyphen"/>liament, being to carry the ſame thither; And to invade the ſaid Rebels in any Ports, Harbours, Creeks, Havens, Iſlands, Caſtles, Forts, Towns, or any other places in the poſſeſſion of the ſaid Rebels, within the ſaid Realm of <hi>Ireland;</hi> And the Rebels therein to take, ſurprize, vanquiſh, deſtroy or kill, and to ſacke and pillage any ſuch place or places, and
+<pb facs="tcp:137366:4"/>further to ſurpriſe and take all, and all manner of Pirats and Sea rovers, of what Nation ſoever, and their ſhips and goods whatſover. And for the better incouragement of all ſuch Ad<g ref="char:EOLhyphen"/>venturers in the ſaid enterpriſe, It is by the Lords and Com<g ref="char:EOLhyphen"/>mons likewiſe Ordered and Ordeined, that the ſaid Adven<g ref="char:EOLhyphen"/>turers ſhall have and enjoy as their proper goods, All Ships, Goods, Monies, Plate, Armes, Munition, Victualls, pillage and ſpoyle, which ſhall be ſeiſed or taken by any perſons by them to be imployed, by force and vertue of this Or<g ref="char:EOLhyphen"/>dinance, which by proofe of witneſſe upon Oath made in the high Court of Admiralty, and the definitive ſentence to be given in that Court, ſhall be pronounced at the time of the taking or ſeizure thereof to have belonged to any <hi>Iriſh</hi> Rebell or Rebells, or any perſon or perſons whatſoever that hath ſupplyed thoſe Rebells, or any of them with Victualls, Armes or Munition, or ſhall be taken having on Board them Armes, Munition or Victualls bound there<g ref="char:EOLhyphen"/>with to the Kingdome of <hi>Jreland,</hi> or any the Dominions of the ſame, not having on board them ſuch a paſport or Licence as aforeſaid, or to belong to any Pirat or Sea-rover whatſoever, and the ſame to have and enjoy to their own uſe without any accompt whatſoever thereof to be made, reſerving the tenths accuſtomed in ſuch caſes to be paid to the Admirall to be diſpoſed of by Order of both houſes of Parliament.</p>
+            <p>And it is further Ordered and Ordeined, That there ſhall be true and faithfull inventories taken of the Ships, Monies, Goods, Plate, pillage and ſpoyle which ſhall be taken by vertue and authority of this preſent Ordinance, &amp; a true appraiſment made of the ſame, and the ſame toge<g ref="char:EOLhyphen"/>ther with all papers and writings found in any Ship or o<g ref="char:EOLhyphen"/>ther veſſell by them to be taken ſhall be carefully preſer<g ref="char:EOLhyphen"/>ved, and two or three of the Officers of every Ship or o<g ref="char:EOLhyphen"/>ther Veſſell ſo taken ſhall be examined before the chiefe
+<pb facs="tcp:137366:4"/>Officer of the next Port within any of the Kings Domi<g ref="char:EOLhyphen"/>nions, And the ſaid examinations with the papers inven<g ref="char:EOLhyphen"/>tories and appraiſments ſhall be ſent into the Regiſtry of the High Court of the Admiralty aforeſaid, to the end that the taking of the ſaid Ships may thereby be juſtified, or reſtitution by the ſaid Adventurers (if there ſhall be juſt cauſe) there made; And more particularly it is hereby Ordered and Ordeined by the Lords and Commons afore<g ref="char:EOLhyphen"/>ſaid, and they doe by vertue of this Ordinance give unto the perſons to be ſet forth to the ſervice as aforeſaid, and to every of them, power authority and warrant, that if they ſhall happen upon the Seas, or in any port harbor or creek to meete with any Ship or Ships, that ſhall not willingly yeild themſelves to be viſited, and proved by Law and Juſtice, but will defend themſelves by force and violence, Then they ſhall by all meanes poſſible and with all force compell them to yeild, and ſubmit themſelves to reaſon and Juſtice, although it do fall out that by fighting with them, one or more of them be maimed hurt or ſlaine in the reſiſtance; And it is further Ordered and Ordained, that the Captaine, Maſter, and two or three other of the Prin<g ref="char:EOLhyphen"/>cipall Officers of every of the Ships, and Pinnaces ſo to be ſet forth upon the ſaid enterpriſe, ſhall before their going to Sea enter into a bond, in the high Court of Admiralty, in the ſum of two thouſand pounds unto the Speaker of the Commons Houſe of Parliament for the time being, to the uſe of the Common-Wealth, and to be diſpoſed of as both Houſes of Parliament ſhall appoint to the uſe of the Kings Majeſty, That the ſaid Ships or Pinnaces reſpective<g ref="char:EOLhyphen"/>ly, nor their Captaines, Maſters, or any of their Company under collour or pretence of this Ordinance ſhall rob ſpoile or endammage any of the Kings Subjects, Friends, or Al<g ref="char:EOLhyphen"/>lies, other then ſuch particular perſons of His Majeſties ſub<g ref="char:EOLhyphen"/>jects friends or allies as ſhall be found to have aided and re<g ref="char:EOLhyphen"/>lieved
+<pb facs="tcp:137366:5"/>the ſaid Rebells, or ſhall be taken carrying Armes, Victualls, or Munition for <hi>Ireland</hi> without licence or autho<g ref="char:EOLhyphen"/>rity as aforeſaid, or ſhall have committed piracy, And that true inventories and appraiſments ſhall be taken of the Ships and Goods before the ſame ſhall be vended or diſ<g ref="char:EOLhyphen"/>poſed, and the ſame together with the papers found aboard any ſuch Ship, and the examinations of the chiefe Officers of the ſame Ships as is before declared returned into the Regiſtry of the High Court of the Admiralty aforeſaid; And laſtly it is hereby further Ordered and Ordained that this Ordinance, nor any benefit thereby ſhall extend to the ſetters forth of any Ship, or other Veſſell upon the enterpriſe aforeſaid, where bonds ſhall not be given as is before expreſſed, And a Certificate under the Admi<g ref="char:EOLhyphen"/>ralties Seale obtained of the putting in of ſuch Cau<g ref="char:EOLhyphen"/>tion.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:137366:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
